@@ -11,4 +11,4 @@ MOST and MOST importantly ı learned how to create a VENV and how to connect MYS
 
 Feel free to try for yourself
 
-##
+## Contributing
