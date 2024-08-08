@@ -10,3 +10,5 @@ I have learned DTL and its implementation with html along with inheritence for e
 MOST and MOST importantly ı learned how to create a VENV and how to connect MYSQL database with DJANGo frame work!
 
 Feel free to try for yourself
+
+##
